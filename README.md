@@ -5,7 +5,7 @@ This Java program checks whether the second input is a factor of first input or 
 ## Usage
 
 1. Enter two inputs when prompted.
-2. The program will check whether the second input is a factor of first input or not.
+2. The program will tell us if the second input is the factore of first input.
 
 ## How to Run
 
